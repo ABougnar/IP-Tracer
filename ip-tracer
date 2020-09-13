@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
-# Date :- 10/10/2018
-# Powered By :- Aex Software's
+# Author :- Anas Bougnar
+# Date :- 13/09/2020
+# Powered By :- ABougnar
 case "$1" in
   -m)
     php modules/.tracem.php
